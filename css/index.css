@@ -39,7 +39,7 @@ span {
     width: auto;
     max-width: 650px;
     padding: 5px 5px 15px 5px;
-    background-color: #20376f; /* In the Direct Paper Orange thing */
+    background-color: #20376f; /* Text Input Container */
 }
 
 .footer .footer-right {
@@ -72,9 +72,7 @@ span {
     }
 }
 
-#bottom-half {
-    -*background-color: red*-;
-}
+#bottom-half {}
 .image-right {
     float: right;
 }

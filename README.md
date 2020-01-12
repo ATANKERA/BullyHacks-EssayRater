@@ -3,6 +3,6 @@
 https://atankera.github.io/BullyHacks-EssayRater/.
 
 
-Authors: Aditya Singhal|
-         Daegan Appel|
-         Laith Qushair|
+Authors: Aditya Singhal |
+         Daegan Appel |
+         Laith Qushair

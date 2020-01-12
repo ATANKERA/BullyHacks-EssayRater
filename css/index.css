@@ -21,7 +21,7 @@ span {
     width: 90%;
     height: 60px;
     line-height: 58px;
-    background-color: #e3dcdc; /* Grey footer */
+    background-color: #20376f; /* Grey footer */
     padding-left: 20px; 
     padding-right: 0px;
 
@@ -39,7 +39,7 @@ span {
     width: auto;
     max-width: 650px;
     padding: 5px 5px 15px 5px;
-    background-color: #20376f  ; /* In the Direct Paper Orange thing */
+    background-color: #20376f; /* In the Direct Paper Orange thing */
 }
 
 .footer .footer-right {

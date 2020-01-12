@@ -1,2 +1,3 @@
 # BullyHacks-EssayRater
-Essay Rating Service that Focuses on Academic Writing
+
+https://atankera.github.io/BullyHacks-EssayRater/.

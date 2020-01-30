@@ -1,12 +1,16 @@
 # BullyHacks-EssayRater
 
+2020 Bully Hacks Best Website Winner!
+
 https://atankera.github.io/BullyHacks-EssayRater/.
 
+Author: Aditya Singhal
+Contributing Author: Daegan Appel
 
-Authors: Aditya Singhal |
-         Daegan Appel |
-         Laith Qushair
-         
+Secondary Contributer: Laith Qushair
+
+Design and Aesthetic Advisor: David Park
+
          
 License
 Copyright [2020] [Aditya Singhal]

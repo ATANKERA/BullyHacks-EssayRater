@@ -2,7 +2,9 @@
 
 2020 Bully Hacks Best Website Winner!
 
-https://atankera.github.io/BullyHacks-EssayRater/.
+New WebSite: http://directyourpaper.online/
+
+//https://atankera.github.io/BullyHacks-EssayRater/.
 
 Author: Aditya Singhal
 Contributing Author: Daegan Appel
